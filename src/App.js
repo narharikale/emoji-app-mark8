@@ -6,7 +6,13 @@ var emojiDictionary = {
   "🌞": "Sunny",
   "🌝": "Full Moon",
   "🌊": "High tide",
-  "⚡": "Lightning"
+  "⚡": "Lightning",
+  "🌙": "Half moon",
+  "🌀": "Cylcone",
+  "☔": "Rain",
+  "🔥": "Fire",
+  "🌈": "Rainbow",
+  "🌅": "Sunrise"
 };
 
 var emojiList = Object.keys(emojiDictionary);
